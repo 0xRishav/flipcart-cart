@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kgzg8sw0-0/shoe/u/f/0/2400-7-reeoon-white-original-imafx3pa49hgtrts.jpeg?q=50",
+      "name": "Almond Toe Court Shoes, Patent Black",
+      "category": "Womens",
+      "price": 99.0,
+      "stock": 5,
+      "size": "S"
+    },
+    {
+      "id": 2,
+      "img": "https://rukminim1.flixcart.com/image/800/960/k6i7zww0/shoe/p/u/j/ab-brd-300-blu-9-abisto-blue-original-imafnhj2hwfkd2nr.jpeg?q=50",
+      "name": "Suede Shoes, Blue",
+      "category": "Womens",
+      "price": 42.0,
+      "stock": 4,
+      "size": "M"
+    },
+    {
+      "id": 3,
+      "img": "https://rukminim1.flixcart.com/image/800/960/ksnjp8w0/shoe/f/e/p/10-hk4009clrlace-44-hot-knot-white-original-imag66h7k44hahpg.jpeg?q=50",
+      "name": "Leather Driver Shoes Loafers, Tan",
+      "category": "Mens",
+      "price": 34.0,
+      "stock": 12,
+      "size": "L"
+    },
+    {
+      "id": 4,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kbtp0280/shoe/c/k/k/gm1251-43-good-minar-black-original-imaft34ej4zx2z63.jpeg?q=50",
+      "name": "Flip Flops, Red",
+      "category": "Mens",
+      "price": 19.0,
+      "stock": 6,
+      "size": "S"
+    },
+    {
+      "id": 5,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kt8zb0w0/shoe/2/o/e/6-socks-04-grey-6-density-grey-original-imag6n4yzbnfzmgc.jpeg?q=50",
+      "name": "Flip Flops, Blue",
+      "category": "Mens",
+      "price": 19.0,
+      "stock": 0,
+      "size": "M"
+    },
+    {
+      "id": 6,
+      "img": "https://rukminim1.flixcart.com/image/800/960/krxtrww0/shoe/f/q/y/9-508-9-kavon-orange-original-imag5makwzyxeqza.jpeg?q=50",
+      "name": "Gold Button Cardigan, Black",
+      "category": "Womens",
+      "price": 167.0,
+      "stock": 6,
+      "size": "L"
+    },
+    {
+      "id": 7,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kr0ynbk0/shoe/a/g/l/8-hmp66-9-reebok-black-white-original-imag4wznak5j7gd3.jpeg?q=50",
+      "name": "Cotton Shorts, Medium Red",
+      "category": "Womens",
+      "price": 30.0,
+      "stock": 5,
+      "size": "S"
+    },
+    {
+      "id": 8,
+      "img": "https://rukminim1.flixcart.com/image/800/960/jur9nrk0/shoe/k/b/a/wonder-1313-7-asian-grey-orange-original-imaffbmzjc5hmagy.jpeg?q=50",
+      "name": "Fine Stripe Short Sleeve￼Shirt, Grey",
+      "category": "Mens",
+      "price": 49.99,
+      "stock": 9,
+      "size": "M"
+    },
+    {
+      "id": 9,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kkzrpu80/shoe/s/6/l/10-mrj1588-10-aadi-black-original-imagy74fxzsmgpba.jpeg?q=50",
+      "name": "Fine Stripe Short Sleeve￼Shirt, Green",
+      "category": "Mens",
+      "price": 49.99,
+      "offer": 39.99,
+      "stock": 9,
+      "size": "L"
+    },
+    {
+      "id": 10,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kl5hh8w0/shoe/l/5/y/9-ly5261-layasa-multicolor-original-imagycg7ysd8y4ss.jpeg?q=50",
+      "name": "Sharkskin Waistcoat, Charcoal",
+      "category": "Mens",
+      "price": 75.0,
+      "stock": 2,
+      "size": "S"
+    },
+    {
+      "id": 11,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kjhgzgw0-0/shoe/g/j/s/kc034-gry-k-footlance-grey-original-imafzfmk64pmd2h4.jpeg?q=50",
+      "name": "Lightweight Patch Pocket￼Blazer, Deer",
+      "category": "Mens",
+      "price": 175.5,
+      "stock": 1,
+      "size": "M"
+    },
+    {
+      "id": 12,
+      "img": "https://rukminim1.flixcart.com/image/800/960/kjhgzgw0-0/shoe/g/j/s/kc034-gry-k-footlance-grey-original-imafzfmk64pmd2h4.jpeg?q=50",
+      "name": "Bird Print Dress, Black",
+      "category": "Womens",
+      "price": 270.0,
+      "stock": 10,
+      "size": "L"
+    }
+  ]
+}
